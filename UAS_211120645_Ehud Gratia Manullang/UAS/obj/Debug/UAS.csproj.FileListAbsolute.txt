@@ -1,0 +1,7 @@
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\UAS_211120645_Ehud Gratia Manullang\UAS\bin\Debug\UAS.exe.config
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\UAS_211120645_Ehud Gratia Manullang\UAS\bin\Debug\UAS.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\UAS_211120645_Ehud Gratia Manullang\UAS\bin\Debug\UAS.pdb
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\UAS_211120645_Ehud Gratia Manullang\UAS\obj\Debug\UAS.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\UAS_211120645_Ehud Gratia Manullang\UAS\obj\Debug\UAS.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\UAS_211120645_Ehud Gratia Manullang\UAS\obj\Debug\UAS.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\UAS_211120645_Ehud Gratia Manullang\UAS\obj\Debug\UAS.pdb
