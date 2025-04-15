@@ -1,0 +1,7 @@
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M06\Teori_Praktek M06\bin\Debug\Teori_Praktek M06.exe.config
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M06\Teori_Praktek M06\bin\Debug\Teori_Praktek M06.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M06\Teori_Praktek M06\bin\Debug\Teori_Praktek M06.pdb
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M06\Teori_Praktek M06\obj\Debug\Teori_Praktek M06.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M06\Teori_Praktek M06\obj\Debug\Teori_Praktek M06.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M06\Teori_Praktek M06\obj\Debug\Teori_Praktek M06.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M06\Teori_Praktek M06\obj\Debug\Teori_Praktek M06.pdb

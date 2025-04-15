@@ -1,0 +1,7 @@
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teroi_Praktek_M07\Teroi_Praktek_M07\bin\Debug\Teroi_Praktek_M07.exe.config
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teroi_Praktek_M07\Teroi_Praktek_M07\bin\Debug\Teroi_Praktek_M07.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teroi_Praktek_M07\Teroi_Praktek_M07\bin\Debug\Teroi_Praktek_M07.pdb
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teroi_Praktek_M07\Teroi_Praktek_M07\obj\Debug\Teroi_Praktek_M07.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teroi_Praktek_M07\Teroi_Praktek_M07\obj\Debug\Teroi_Praktek_M07.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teroi_Praktek_M07\Teroi_Praktek_M07\obj\Debug\Teroi_Praktek_M07.pdb
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teroi_Praktek_M07\Teroi_Praktek_M07\obj\Debug\Teroi_Praktek_M07.csproj.AssemblyReference.cache
