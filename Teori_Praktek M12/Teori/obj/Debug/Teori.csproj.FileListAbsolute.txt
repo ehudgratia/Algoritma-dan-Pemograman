@@ -1,0 +1,7 @@
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M12\Teori\bin\Debug\Teori.exe.config
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M12\Teori\bin\Debug\Teori.exe
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M12\Teori\bin\Debug\Teori.pdb
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M12\Teori\obj\Debug\Teori.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M12\Teori\obj\Debug\Teori.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M12\Teori\obj\Debug\Teori.exe
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M12\Teori\obj\Debug\Teori.pdb

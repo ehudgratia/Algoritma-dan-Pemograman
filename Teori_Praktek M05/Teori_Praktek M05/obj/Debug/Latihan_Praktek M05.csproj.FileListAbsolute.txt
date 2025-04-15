@@ -1,0 +1,7 @@
+C:\Users\Ehud Gratia\source\repos\Latihan_Praktek M05\Latihan_Praktek M05\bin\Debug\Latihan_Praktek M05.exe.config
+C:\Users\Ehud Gratia\source\repos\Latihan_Praktek M05\Latihan_Praktek M05\bin\Debug\Latihan_Praktek M05.exe
+C:\Users\Ehud Gratia\source\repos\Latihan_Praktek M05\Latihan_Praktek M05\bin\Debug\Latihan_Praktek M05.pdb
+C:\Users\Ehud Gratia\source\repos\Latihan_Praktek M05\Latihan_Praktek M05\obj\Debug\Latihan_Praktek M05.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\source\repos\Latihan_Praktek M05\Latihan_Praktek M05\obj\Debug\Latihan_Praktek M05.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\source\repos\Latihan_Praktek M05\Latihan_Praktek M05\obj\Debug\Latihan_Praktek M05.exe
+C:\Users\Ehud Gratia\source\repos\Latihan_Praktek M05\Latihan_Praktek M05\obj\Debug\Latihan_Praktek M05.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M11\Latihan\bin\Debug\Latihan.exe.config
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M11\Latihan\bin\Debug\Latihan.exe
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M11\Latihan\bin\Debug\Latihan.pdb
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M11\Latihan\obj\Debug\Latihan.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M11\Latihan\obj\Debug\Latihan.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M11\Latihan\obj\Debug\Latihan.exe
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M11\Latihan\obj\Debug\Latihan.pdb

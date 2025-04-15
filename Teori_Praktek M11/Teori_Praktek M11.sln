@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teori", "Teori\Teori.csproj", "{E74A681D-AC65-42FC-A2CA-3879F0BBC823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan", "Latihan\Latihan.csproj", "{45598A4C-04DB-4279-A9D3-F8FB523B4867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E74A681D-AC65-42FC-A2CA-3879F0BBC823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74A681D-AC65-42FC-A2CA-3879F0BBC823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74A681D-AC65-42FC-A2CA-3879F0BBC823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74A681D-AC65-42FC-A2CA-3879F0BBC823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45598A4C-04DB-4279-A9D3-F8FB523B4867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45598A4C-04DB-4279-A9D3-F8FB523B4867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45598A4C-04DB-4279-A9D3-F8FB523B4867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45598A4C-04DB-4279-A9D3-F8FB523B4867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34986CDD-3094-4E5A-A939-BE444C26A937}
+	EndGlobalSection
+EndGlobal

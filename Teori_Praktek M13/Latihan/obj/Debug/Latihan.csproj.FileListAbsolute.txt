@@ -1,0 +1,11 @@
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M13\Latihan\bin\Debug\Latihan.exe.config
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M13\Latihan\bin\Debug\Latihan.exe
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M13\Latihan\bin\Debug\Latihan.pdb
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M13\Latihan\obj\Debug\Latihan.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M13\Latihan\obj\Debug\Latihan.exe
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M13\Latihan\obj\Debug\Latihan.pdb
+C:\Users\Ehud Gratia\source\repos\Teori_Praktek M13\Latihan\obj\Debug\Latihan.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M13\Latihan\obj\Debug\Latihan.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M13\Latihan\obj\Debug\Latihan.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M13\Latihan\obj\Debug\Latihan.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M13\Latihan\obj\Debug\Latihan.pdb

@@ -1,0 +1,7 @@
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M10\Praktek\obj\Debug\Praktek.csproj.CoreCompileInputs.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M10\Praktek\obj\Debug\Praktek.csproj.AssemblyReference.cache
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M10\Praktek\bin\Debug\Praktek.exe.config
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M10\Praktek\bin\Debug\Praktek.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M10\Praktek\bin\Debug\Praktek.pdb
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M10\Praktek\obj\Debug\Praktek.exe
+C:\Users\Ehud Gratia\OneDrive\Dokumen\Kuliah\Semester 2\Algoritme  dan Pemrograman\Teori_Praktek M10\Praktek\obj\Debug\Praktek.pdb
